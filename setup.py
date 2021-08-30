@@ -4,7 +4,7 @@ this_directory = Path(__file__).parent
 long_description = (this_directory / "README.md").read_text()
 
 setup(
-    name='nhentai-downloader',
+    name='nhentai-download',
     version='1.0.0',
     license='MIT',
     author='TOKYOCOLD69',
